@@ -1,7 +1,7 @@
 # Instrucciones para Levantar la Aplicación
 
 Para levantar la aplicación, 
-solo necesitas ejecutar el siguiente comando en tu terminal: npm run dev
+solo necesitas ejecutar el siguiente comando en tu terminal: <code>npm run dev</code>
 
 
 ## dificultades
